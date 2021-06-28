@@ -13,8 +13,11 @@ function MyApp({ Component, pageProps }) {
       <Link href="/">
         <a>
           <div className={styles.brandPizza}>
+            <Image src='/assets/images/pizza.svg' alt='pizza' height='42px' width='42px'>
+            </Image>
+            <p>PizzaTown</p>
 
-              <p>PizzaTown</p>
+
 
           </div>
         </a>
