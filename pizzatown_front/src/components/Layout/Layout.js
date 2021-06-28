@@ -14,7 +14,7 @@ function Layout({children}) {
   {children}
 </main>
 
-<footer className={styles.footer}>Made by Ted Irland</footer>
+<footer className={styles.footer}>Made by JSON Derul0</footer>
     </div>
   )
 }
